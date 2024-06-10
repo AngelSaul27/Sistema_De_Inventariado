@@ -1,66 +1,31 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## PANEL DE ADMINISTRACIÓN
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### 1.- Dashboard
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/3be9ad20-3c1e-4a67-b49d-de85a241262d" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/74e38a4c-60f5-41e1-943e-31ef30bb45a6" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/38e4a512-10d4-4409-a296-4f233bff60d3" alt="Panel de Administración" width="500">
 
-## About Laravel
+### 2.- Registro de Equipos
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/01aad812-2ede-483b-8920-86f4df28a2bd" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/1a407979-238f-4792-933f-b7a0a289329f" alt="Panel de Administración" width="450">
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 3.-Areas
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/ca2fd535-7cd0-45e1-ac5c-67302b18776d" alt="Panel de Administración" width="490">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/7b7451b6-9c85-4fed-acf7-1d568c33f2c9" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/c46e5604-cb48-45b1-8734-75f6b5b5dc1e" alt="Panel de Administración" width="500">
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### 4.- Responsables
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/0d0661d2-42b9-4bab-9192-de32d6e395de" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/c330f80e-2c0c-4cb8-adde-877845883c87" alt="Panel de Administración" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/3dbee8e5-5059-4e01-9281-96b2200fb72c" alt="Panel de Administración" width="500">
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## PANEL DE AREAS
 
-## Learning Laravel
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/aec2ffb7-94c7-42d8-939a-424d008ecc16" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/49fc00c6-0923-44d4-bf33-206422d164d6" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/cf76e53a-bf27-43e4-afd4-8784d2f75296" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/696c4aa4-04b2-4f3c-bcd6-1f48d02a1e8e" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/ef41ee4c-2485-4250-aeb6-56a26e7f4f2b" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/0a1a57db-1da9-4081-879d-455ae4e0a18e" alt="Panel de Áreas" width="500">
+<img src="https://github.com/AngelSaul27/Sistema_De_Inventariado/assets/64120319/8d4af139-6dc4-4498-a165-571320b55a2e" alt="Panel de Áreas" width="500">
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

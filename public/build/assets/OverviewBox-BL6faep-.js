@@ -1,0 +1,1 @@
+import{R as r,j as e}from"./app-DlxOd3O2.js";const c=r.memo(({children:s,amount:t,text:a})=>e.jsxs("div",{className:"bg-gray-800 p-4 text-gray-300 rounded-md shadow-md flex flex-col justify-center items-center gap-2",children:[s,e.jsxs("span",{className:"text-lg tracking-wider font-bold",children:[a,": ",t]})]}));export{c as O};

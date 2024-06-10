@@ -1,0 +1,12 @@
+<?php
+return [
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+    'NOMBRE DEL AREA',
+];

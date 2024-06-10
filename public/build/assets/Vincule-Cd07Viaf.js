@@ -1,0 +1,1 @@
+import{j as a,d as r}from"./app-DlxOd3O2.js";const o=({active:i=!1,className:t="",children:s,...e})=>a.jsx(r,{...e,className:"text-sm transition duration-150 ease-in-out text-gray-300 "+t,children:s});export{o as V};

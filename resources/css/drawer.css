@@ -1,0 +1,80 @@
+main{
+    margin-left: 5.5%;
+    width: 94.5%;
+    height: auto;
+}
+.header-navigation{
+    display: none;
+}
+.drawer_container{
+    display: flex;
+    position: fixed;
+    flex-direction: column;
+    box-sizing: border-box;
+    gap: 20px;
+    width: 5.5%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+@media (width < 1200px) {
+    main{
+        margin-left: 10%;
+        width: 90%;
+    }
+    .drawer_container{
+        width: 10%;
+    }
+}
+
+@media (width < 700px) {
+    main{
+        margin-left: 10%;
+        width: 90%;
+    }
+    .drawer_container{
+        width: 10%;
+    }
+}
+
+@media (width < 600px) {
+    main{
+        margin-left: 0.0%;
+        width: 100%;
+        padding-top: 50px
+    }
+    .drawer_container{
+        display: none;
+    }
+    .header-navigation{
+        display: block;
+        position: fixed;
+        width: 100%;
+    };
+}
+
+.bgLogin{
+    background-image: url("https://www.villahermosa.gob.mx/wp-content/uploads/2023/01/Portada_Home3.png");
+    background-position: center;
+    background-size: cover;
+
+    position: absolute;
+    inset: 0;
+}
+.bgLoginOverlay{
+    position: absolute;
+    inset: 0;
+    background: #1a1a1a;
+    opacity: .5;
+}
+
+/* Estilos para filas impares */
+tbody tr:nth-child(odd) {
+     background-color: #4b5563; /* Color de fondo para filas impares */
+ }
+
+/* Estilos para filas pares */
+tbody tr:nth-child(even) {
+    background-color: #374151; /* Color de fondo para filas pares */
+}
